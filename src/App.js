@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!
+          React Cooking App
         </a>
       </header>
     </div>
